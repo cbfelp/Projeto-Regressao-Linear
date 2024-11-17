@@ -1,11 +1,10 @@
-# Projeto: Implementação e Análise de Regressão Linear  
+# Projeto: Predição da Taxa de Engajamento de influenciadores digitais em Posts do Instagram
 **Autor**: João Fellippe Pereira da Conceição  & Andreza Carla Lopes André
 
 **Data de Entrega**: 17/11/2024  
 
 ## Descrição  
-Este projeto utiliza Regressão Linear para prever a taxa de engajamento de influenciadores no Instagram.  
-O relatório técnico documenta todas as etapas realizadas, desde a análise exploratória até a validação do modelo.  
+Descrição do Projeto: Este projeto tem como objetivo desenvolver um modelo de predição para estimar a taxa de engajamento de influenciadores digitais em posts do Instagram, utilizando técnicas de aprendizado de máquina, especificamente a regressão linear. 
 
 ## Estrutura do Projeto  
 - **Relatorio_Tecnico_RegLinear.ipynb**: Código-fonte completo em Python.  
