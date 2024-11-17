@@ -1,5 +1,5 @@
 # Projeto: Implementação e Análise de Regressão Linear  
-**Autor**: João Fellippe Pereira da Conceição  
+**Autor**: João Fellippe Pereira da Conceição  & Andreza Carla Lopes André 
 **Data de Entrega**: 17/11/2024  
 
 ## Descrição  
